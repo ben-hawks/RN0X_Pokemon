@@ -1,3 +1,10 @@
+# Datasets
+data/*.tgz
+data/*/*
+
+# Logfiles
+logs/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

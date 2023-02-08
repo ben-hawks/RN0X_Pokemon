@@ -1,0 +1,9 @@
+Dataset Source:
+
+Train/Validation 
+* https://www.kaggle.com/datasets/thedagger/pokemon-generation-one
+* https://www.kaggle.com/datasets/unexpectedscepticism/11945-pokemon-from-first-gen
+
+Testing (Cropped TCG images)
+* Downloading & Preprocessing Script (forked version used is here, be warned here be very, very hacky dragons. Contact ben-hawks for the zip if need be) 
+* https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/
